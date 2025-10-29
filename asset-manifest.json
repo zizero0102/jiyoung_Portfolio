@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jiyoung_Portfolio/static/css/main.2c74df60.css",
-    "main.js": "/jiyoung_Portfolio/static/js/main.2f7a344d.js",
+    "main.js": "/jiyoung_Portfolio/static/js/main.9d145bc4.js",
     "static/media/Cafe24Supermagic-Regular-v1.0.otf": "/jiyoung_Portfolio/static/media/Cafe24Supermagic-Regular-v1.0.53d3c7350a9beff6ff03.otf",
     "static/media/Cafe24Supermagic-Bold-v1.0.otf": "/jiyoung_Portfolio/static/media/Cafe24Supermagic-Bold-v1.0.9f852c85afc8497c2864.otf",
     "static/media/The Jamsil OTF 3 Regular.otf": "/jiyoung_Portfolio/static/media/The Jamsil OTF 3 Regular.fc59b1e715166a259eb5.otf",
@@ -12,10 +12,10 @@
     "static/media/The Jamsil OTF 1 Thin.otf": "/jiyoung_Portfolio/static/media/The Jamsil OTF 1 Thin.a24bec553a2022d182e1.otf",
     "index.html": "/jiyoung_Portfolio/index.html",
     "main.2c74df60.css.map": "/jiyoung_Portfolio/static/css/main.2c74df60.css.map",
-    "main.2f7a344d.js.map": "/jiyoung_Portfolio/static/js/main.2f7a344d.js.map"
+    "main.9d145bc4.js.map": "/jiyoung_Portfolio/static/js/main.9d145bc4.js.map"
   },
   "entrypoints": [
     "static/css/main.2c74df60.css",
-    "static/js/main.2f7a344d.js"
+    "static/js/main.9d145bc4.js"
   ]
 }
